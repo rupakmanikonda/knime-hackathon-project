@@ -2,9 +2,8 @@
 
 ## 👥 Team Members
 
-* Monish Jayaprakash Seelam
 * Rupak Manikonda
-* Ulchala Vikas Kumar Reddy
+* Monish Jayaprakash Seelam
 
 ---
 
