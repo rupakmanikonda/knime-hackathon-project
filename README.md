@@ -113,12 +113,6 @@ XGBoost was selected as the final model because:
 
 ---
 
-## 📸 Project Workflow & Visualizations
-
-(Add screenshots of your KNIME workflow and charts here)
-
----
-
 ## 🔮 Future Improvements
 
 * Real-time churn prediction system
